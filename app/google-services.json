@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480911204542",
+    "project_id": "auntification-progect",
+    "storage_bucket": "auntification-progect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480911204542:android:ca9c3166904061a4e63eef",
+        "android_client_info": {
+          "package_name": "com.example.lab9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFiEipVuvicdKaR6vRb7zfua0pFHZxA6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
